@@ -36,7 +36,7 @@ function runGame(gameType) {
         throw `Unknown game type: ${gameType}. Aborting!`;
     }
   }
-}
+
 
 /**
  * Checks the answer against the first element in
